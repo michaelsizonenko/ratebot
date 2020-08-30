@@ -1,4 +1,6 @@
 .idea
 env/
 __pycache__/
+config.json
+bot_rates.db
 
